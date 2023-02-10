@@ -25,3 +25,4 @@ Use that directory to navigate to where you unzipped the code from Github.
 
 You are doing great. Best of luck with learning Python!
 Feel free to email any of the collaborators on this project if you are having trouble getting Python/Jupyter/Anaconda setup. 
+
